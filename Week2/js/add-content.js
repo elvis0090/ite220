@@ -7,5 +7,5 @@ quantity = 14;
 total = price * quantity;
 
 //document.write("Total is " + total);
-var totaPriceEle = document.getElementById("totalPrice");
+var totalPriceEle = document.getElementById("totalPrice");
 totalPriceEle.textContent = "$" + total;
