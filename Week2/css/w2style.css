@@ -16,7 +16,7 @@ body {
 
 .content .content-container {
 	border-color: grey;
-	border-size: 1px; /* this allows you to adjust the thickness */
+	border-size: 2px; /* this allows you to adjust the thickness */
 	border-style: solid;
 	width: 470px;
 }
@@ -25,6 +25,9 @@ body {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	font-size: 2em;
+}
+.content .off {
+	color: red;
 }
 
 .content ul {
