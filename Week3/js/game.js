@@ -72,7 +72,7 @@ var game = {
 		}, false);
 
 		//show answer
-		var ele = document.getElementById("show");
+		var ele = document.getElementById("show answer");
 		ele.addEventListener("click", function(){
 			check.value=answer}, 
 			false);
